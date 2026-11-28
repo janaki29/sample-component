@@ -415,7 +415,7 @@ spec:
         - name: name
           value: apply-tags
         - name: bundle
-          value: quay.io/redhat-appstudio-tekton-catalog/task-apply-tags:0.1@sha256:29add9a49a2281a3755a9b580d2b9c5cb110231b14cccf8ade2fd7895a9b4b4a
+          value: quay.io/redhat-appstudio-tekton-catalog/task-apply-tags:0.1@sha256:45a93a6f87ae1a851ff2475093796da0938bf4839126d7b727733eb12e185eed
         - name: kind
           value: task
         resolver: bundles
